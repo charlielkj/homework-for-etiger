@@ -3,6 +3,7 @@
 #include <set>
 using namespace std;
 
+
 struct card
 {
     string color;
