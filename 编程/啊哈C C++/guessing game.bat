@@ -1,1 +1,0 @@
-@"C:\AhaCpp\resources\core\bin\ConsolePauser.exe" "D:\±à³Ì\°¡¹þC C++\guessing game.exe"
